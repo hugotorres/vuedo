@@ -3,6 +3,9 @@
 
 ## What is Vuedo?
 
+
+hugotorres
+
 Vuedo is an open source project built with Laravel and Vue.js. It is a live example of how everything works together.
 
 ## Website using Vuedo in production : [https://vuejsfeed.com/](https://vuejsfeed.com/)
